@@ -1,24 +1,16 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This app aims to 
 
-Things you may want to cover:
+This is an ongoing project.
 
-* Ruby version
+* Ruby version 2.5.1
 
 * System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+    "@rails/webpacker": "3.5",
+    "babel-preset-react": "^6.24.1",
+    "mapbox-gl": "^0.48.0",
+    "prop-types": "^15.6.2",
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2",
+    "react-on-rails": "11.1.3"
